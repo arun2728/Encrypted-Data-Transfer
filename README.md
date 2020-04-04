@@ -1,7 +1,22 @@
 # Encrypted-Data-Transfer
 You can transfer text, files and images.
 
+## Prerequisites
+### 1. Cryptography : 
+   . pip install cryptography
+   . https://pypi.org/project/cryptography/
+
+### 2. Tkinter : 
+   . pip install python-tk
+       
 ## Execution
 . Before running the files make sure that both the devices are connected on same network.
-.  Client.py is a GUI based application, run this on the device where you file ( that is to be transfered )exists.
-.
+. Sender.py is a GUI based application, run this on the device(from which data is to be transfered) exists.
+. Run Receiver.py on the device where data is to be stored.
+. Firstly establish a connection by clicking on ' connect ' on GUI and then :
+  1. Enter IP Address of the device (where data is to be transfered)
+  2. Enter port number 9998, you can change port number in Receiver.py
+  3. Press Enter
+. Now you can select option based on your file type
+. Finally, to disconnect from Reciver click disconnect.
+#### Note : To transfer any file you need to enter complete file path including file name.
