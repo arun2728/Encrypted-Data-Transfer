@@ -9,6 +9,10 @@ You can transfer text, files and images.
 ### 2. Tkinter : 
    . pip install python-tk
        
+
+## Description 
+
+
 ## Execution
 . Before running the files make sure that both the devices are connected on same network.
 . Sender.py is a GUI based application, run this on the device(from which data is to be transfered) exists.
