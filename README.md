@@ -10,7 +10,7 @@ Encryption is used to secure the files.
    pip install python-tk (ignore if you already installed it)
        
 
-## Execution : 
+## Execution  
 Before running the files make sure that both the devices are connected on same network.
 Sender.py is a GUI based application, run this on the device(from which data is to be transfered) exists.
 Run Receiver.py on the device where data is to be stored.
