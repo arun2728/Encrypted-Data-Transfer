@@ -4,9 +4,8 @@ Encryption is used to secure the files.
 
 ## Prerequisites
 ### 1. Cryptography : 
-   a. pip install cryptography  (ignore if you already installed it)
-   b. https://pypi.org/project/cryptography/
-
+   pip install cryptography (ignore if you already installed it). Link = "https://pypi.org/project/cryptography/"
+ 
 ### 2. Tkinter : 
    pip install python-tk (ignore if you already installed it)
        
